@@ -1,4 +1,4 @@
-hello_world
-  puts "hello world"
-end
+
+puts "hello world"
+  
 hello_world
